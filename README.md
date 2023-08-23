@@ -19,13 +19,13 @@ Prerequisite: https://flutter.dev/docs/get-started/install
 
 2. Clone the repo.
    ```sh
-    git clone https://github.com//flutter-weather
+    git clone this repo
    ```
 3. Install packages.
    ```sh
     flutter pub get
    ```
-4. Add OpenWeatherMap API KEY on lib/screens/Loading.dart
+4. Add OpenWeatherMap API KEY on lib/const/app_const.dart
 
 ```dart
 String apiKey = "<ADD API KEY HERE>";
