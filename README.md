@@ -6,8 +6,9 @@
 
 <details>
 <summary>See ScreenShots</summary>
-<img src="https://user-images.githubusercontent.com/59178380/106931874-e0116d00-6738-11eb-909f-6db0d4c2a12e.png" alt="" width=300></img>
-<img src="https://user-images.githubusercontent.com/59178380/106931850-d8ea5f00-6738-11eb-93c1-c162f40fd640.png" alt="" width=300></img>
+<img src="https://raw.githubusercontent.com/iamudesharma/flutter-weather/main/screenshot/Screenshot%202023-08-23%20at%2010.21.02%20AM.png" alt="" width=300></img>
+<img src="https://raw.githubusercontent.com/iamudesharma/flutter-weather/main/screenshot/Screenshot%202023-08-23%20at%2010.21.35%20AM.png" alt="" width=300></img>
+<img src="https://raw.githubusercontent.com/iamudesharma/flutter-weather/main/screenshot/Screenshot%202023-08-23%20at%2010.21.52%20AM.png" alt="" width=300></img>
 </details>
 
 To get a local copy up and running follow these simple example steps.
